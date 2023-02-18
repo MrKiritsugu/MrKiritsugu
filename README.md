@@ -1,1 +1,1 @@
-Hi, I’m Turan Göktuğ Sarıcan. Interested in front-end development. Currently learning HTML & CSS.
+Hi, I’m Turan Göktuğ Sarıcan. Interested in front-end development. Currently learning Javascript.
